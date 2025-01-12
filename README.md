@@ -1,5 +1,13 @@
 ## Hi there 👋
-%type=![header](https://capsule-render.vercel.app/api?type=slice)
+I'm GeekDM. 
+I duty on KOREA Army now. 🇰🇷
+
+🤓When I was college,
+I learned **C, Python, JAVA, Linux**
+
+And now, I'm studying **Data Analysis, Machine learning** + Web 🔥🔥🔥
+
+🤔 I'm looking for help with machine learning...
 <!--
 **GeekDM/GeekDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
